@@ -1,3 +1,3 @@
 # node-webserver
 
-node-webserver is a light-weight web server that supports http(s), downloads and various template engines.
+node-webserver is a lightweight web server that supports http(s), downloads and various template engines.
