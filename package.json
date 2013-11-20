@@ -10,7 +10,8 @@
   "dependencies": {
     "commander": "2.0.0",
     "express": "3.4.4",
-    "mime": "1.2.11"
+    "mime": "1.2.11",
+    "stylus": "0.40.3"
   },
   "devDependencies": {
     "grunt": "0.4.1",
