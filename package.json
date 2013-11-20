@@ -7,7 +7,6 @@
   "bin": {
     "webserver": "bin/webserver.js"
   },
-  "private": true,
   "dependencies": {
     "commander": "2.0.0",
     "express": "3.4.4"
